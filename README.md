@@ -3,7 +3,7 @@
 
 **Author:** Hay Oo
 
-<b><a href="https://replit.com/@HayOo1/SnakeGameoop" style="color:purple;">Click here to see this timer program in Replit</a></b>
+<b><a href="https://replit.com/@HayOo1/SnakeGameoop" style="color:purple;">Click here to play this game in Replit</a></b>
 
 ![alt text](/program.png)
 
